@@ -1,0 +1,2 @@
+You'll need python 3.10 and pygame to use this. I intend on using pyinstaller and try to make a exe file so it doesn't require you
+the user to install this but this is open source feel free to modify / fork this.
